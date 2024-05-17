@@ -38,6 +38,7 @@ public class Attraction {
     //영인 0520
     //0454
    //영인 500
+    //0500
 
 }
 // test 혜원 0226
