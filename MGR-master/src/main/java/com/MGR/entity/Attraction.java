@@ -37,5 +37,6 @@ public class Attraction {
     //0416
     //영인0421
     //나래 0442
+    //skfo 0450
 }
 // test 혜원 0226
